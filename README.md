@@ -49,7 +49,7 @@ Customer Management is CRUD using Laravel 8 and Vuejs.
    ```
 3. Running Vuejs
    ```sh
-    npm run watch
+   npm run watch
    ```
 
 _For more examples, please refer to your localhost(https://localhost:8000)_
