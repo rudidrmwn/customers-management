@@ -22,27 +22,28 @@ Customer Management is CRUD using Laravel 8 and Vuejs.
    ```sh
    npm install
    ```
-4. Install Composer packages
+3. Install Composer packages
    ```sh
-    composer install
+   composer install
    ```
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-1.Running Laravel
-    ```
-    php artisan serve
-    ```
-2.Migrate Database
-    ```
-    php artisan migrate
-    ```
-3.Running Vuejs
-    ```
+
+1. Running Laravel
+   ```sh
+   php artisan serve
+   ```
+2. Migrate Database
+   ```sh
+   php artisan migrate
+   ```
+3. Running Vuejs
+   ```sh
     npm run watch
-    ```
+   ```
 
 _For more examples, please refer to your localhost(https://localhost:8000)_
 
