@@ -18,11 +18,16 @@ Customer Management is CRUD using Laravel 8 and Vuejs.
    ```sh
    git clone https://github.com/th3root/customers-management.git
    ```
-2. Install NPM packages
+2. Install Vue ui
+    ```sh
+    php artisan ui vue
+    ```
+
+3. Install NPM packages
    ```sh
    npm install
    ```
-3. Install Composer packages
+4. Install Composer packages
    ```sh
    composer install
    ```
