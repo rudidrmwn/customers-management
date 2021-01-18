@@ -30,7 +30,8 @@ Customer Management is CRUD using Laravel 8 and Vuejs.
 
 4. Install NPM packages
    ```sh
-   npm install
+   npm install && npm run dev
+   npm install vue-axios vue-router vue-sweetalert2 --save
    ```
 
 
